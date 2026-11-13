@@ -1,0 +1,9 @@
+format=D3CK
+version=1
+chunk_size_bytes=10000000
+chunk_count=100
+input_bytes=1000000000
+final_unfinished_tag_bytes=0
+byte_histogram=256 values, sparse varint counts
+tag_counting=complete XML element tags; attributes ignored; opening/closing separate
+comments_cdata_pi_declarations=ignored

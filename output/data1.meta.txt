@@ -1,0 +1,8 @@
+format=D1NG
+version=1
+max_length=5
+records=9670381
+input_bytes=1000000000
+separators=TAB,LF,CR,SPACE
+ordering=lexicographic
+count_encoding=unsigned_varint
