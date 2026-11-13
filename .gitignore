@@ -1,3 +1,7 @@
 # Local build artifacts
 enwik9_cpp/build/
 output/
+
+# Large input datasets
+enwik9
+enwik9.zip
